@@ -1,1 +1,0 @@
-Website for [iwasthesword](https://github.com/iwasthesword "iwasthesword") @ [github.com](http://github.com "github.com")
